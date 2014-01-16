@@ -1,0 +1,14 @@
+# Logfile created on 2014-01-15 12:05:02 -0800 by logger.rb/44203
+I, [2014-01-15T12:05:02.999880 #9999]  INFO -- : 0:  backports (3.4.0) from /usr/local/rvm/gems/ruby-2.1.0/specifications/backports-3.4.0.gemspec
+I, [2014-01-15T12:05:03.000245 #9999]  INFO -- : 0:  coderay (1.1.0) from /usr/local/rvm/gems/ruby-2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2014-01-15T12:05:03.000647 #9999]  INFO -- : 0:  method_source (0.8.2) from /usr/local/rvm/gems/ruby-2.1.0/specifications/method_source-0.8.2.gemspec
+I, [2014-01-15T12:05:03.002774 #9999]  INFO -- : 0:  multi_json (1.8.2) from /usr/local/rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-15T12:05:03.003094 #9999]  INFO -- : 0:  slop (3.4.7) from /usr/local/rvm/gems/ruby-2.1.0/specifications/slop-3.4.7.gemspec
+I, [2014-01-15T12:05:03.003366 #9999]  INFO -- : 0:  pry (0.9.12.4) from /usr/local/rvm/gems/ruby-2.1.0/specifications/pry-0.9.12.4.gemspec
+I, [2014-01-15T12:05:03.003633 #9999]  INFO -- : 0:  rack (1.5.2) from /usr/local/rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-15T12:05:03.003883 #9999]  INFO -- : 0:  rack-protection (1.5.2) from /usr/local/rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-01-15T12:05:03.004136 #9999]  INFO -- : 0:  rack-test (0.6.2) from /usr/local/rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-15T12:05:03.004414 #9999]  INFO -- : 0:  tilt (1.4.1) from /usr/local/rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-01-15T12:05:03.004663 #9999]  INFO -- : 0:  sinatra (1.4.4) from /usr/local/rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-01-15T12:05:03.004913 #9999]  INFO -- : 0:  sinatra-contrib (1.4.2) from /usr/local/rvm/gems/ruby-2.1.0/specifications/sinatra-contrib-1.4.2.gemspec
+I, [2014-01-15T12:05:03.005158 #9999]  INFO -- : 0:  bundler (1.5.1) from /usr/local/rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
